@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nginx
+  template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - name: nginx
+        image: docker.io/nginx
+        imagePullPolicy: IfNotPresent
+        resources:
+          limits:
+            memory: "1Gi"
+            cpu: "500m"
+        ports:
+        - containerPort: 80
+          name: nginx-port
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx-svc-nodeport
+spec:
+  selector:
+    app: nginx
+  ports:
+  - name: http
+    nodePort: 30080
+    port: 80
+    targetPort: 80
+    protocol: TCP
+  type: NodePort
+
+

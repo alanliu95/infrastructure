@@ -1,0 +1,786 @@
+2019-12-06T14:11:27: mosquitto version 1.6.8 starting
+2019-12-06T14:11:27: Config loaded from /mosquitto/config/mosquitto.conf.
+2019-12-06T14:11:27: Opening ipv4 listen socket on port 1883.
+2019-12-06T14:11:27: Opening ipv6 listen socket on port 1883.
+2019-12-06T14:11:30: New connection from 192.168.1.50 on port 1883.
+2019-12-06T14:11:30: New client connected from 192.168.1.50 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-06T14:21:38: mosquitto version 1.6.8 terminating
+2019-12-06T14:21:42: mosquitto version 1.6.8 starting
+2019-12-06T14:21:42: Config loaded from /mosquitto/config/mosquitto.conf.
+2019-12-06T14:21:42: Opening ipv4 listen socket on port 1883.
+2019-12-06T14:21:42: Opening ipv6 listen socket on port 1883.
+2019-12-06T14:21:59: New connection from 192.168.1.50 on port 1883.
+2019-12-06T14:21:59: New client connected from 192.168.1.50 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-06T14:27:35: New connection from 172.18.0.1 on port 1883.
+2019-12-06T14:27:35: New client connected from 172.18.0.1 as mosqsub/116369-vm-ubunt (p1, c1, k60).
+2019-12-06T14:27:58: Socket error on client mosqsub/116369-vm-ubunt, disconnecting.
+2019-12-06T14:28:02: New connection from 172.18.0.1 on port 1883.
+2019-12-06T14:28:02: New client connected from 172.18.0.1 as mosqsub/118434-vm-ubunt (p1, c1, k60).
+2019-12-06T14:53:35: Socket error on client mosqsub/118434-vm-ubunt, disconnecting.
+2019-12-06T14:54:09: New connection from 172.18.0.1 on port 1883.
+2019-12-06T14:54:09: New client connected from 172.18.0.1 as mosqsub/108122-vm-ubunt (p1, c1, k60).
+2019-12-06T14:54:34: Socket error on client mosqsub/108122-vm-ubunt, disconnecting.
+2019-12-06T14:54:36: New connection from 172.18.0.1 on port 1883.
+2019-12-06T14:54:36: New client connected from 172.18.0.1 as mosqsub/110051-vm-ubunt (p1, c1, k60).
+2019-12-06T14:54:52: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-06T14:57:52: Socket error on client mosqsub/110051-vm-ubunt, disconnecting.
+2019-12-06T14:58:01: New connection from 172.18.0.1 on port 1883.
+2019-12-06T14:58:01: New client connected from 172.18.0.1 as mosqsub/126756-vm-ubunt (p1, c1, k60).
+2019-12-06T14:58:08: New connection from 192.168.1.50 on port 1883.
+2019-12-06T14:58:08: New client connected from 192.168.1.50 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-06T14:59:10: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-06T14:59:12: New connection from 192.168.1.50 on port 1883.
+2019-12-06T14:59:12: New client connected from 192.168.1.50 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-06T14:59:27: Socket error on client 686c29466bc04c97bce39f279c700dbe, disconnecting.
+2019-12-06T15:00:04: New connection from 192.168.1.50 on port 1883.
+2019-12-06T15:00:04: New client connected from 192.168.1.50 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-06T15:00:20: Socket error on client 686c29466bc04c97bce39f279c700dbe, disconnecting.
+2019-12-06T15:00:54: New connection from 172.18.0.1 on port 1883.
+2019-12-06T15:00:54: New client connected from 172.18.0.1 as mosqsub/8720-vm-ubuntu (p1, c1, k60).
+2019-12-07T03:20:00: Socket error on client mosqsub/126756-vm-ubunt, disconnecting.
+2019-12-07T07:02:29: New connection from 192.168.1.50 on port 1883.
+2019-12-07T07:02:29: New client connected from 192.168.1.50 as ubuntu_14th (p2, c1, k60).
+2019-12-07T07:02:29: Client ubuntu_14th disconnected.
+2019-12-07T07:21:03: New connection from 192.168.1.50 on port 1883.
+2019-12-07T07:21:03: New client connected from 192.168.1.50 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-07T07:22:50: New connection from 192.168.1.50 on port 1883.
+2019-12-07T07:22:50: New client connected from 192.168.1.50 as ubuntu_14th (p2, c1, k60).
+2019-12-07T07:22:55: Client ubuntu_14th disconnected.
+2019-12-07T07:25:37: New connection from 192.168.1.50 on port 1883.
+2019-12-07T07:25:37: New client connected from 192.168.1.50 as ubuntu_14th (p2, c1, k60).
+2019-12-07T07:25:42: Client ubuntu_14th disconnected.
+2019-12-07T07:29:24: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-07T07:29:25: New connection from 192.168.1.50 on port 1883.
+2019-12-07T07:29:25: New client connected from 192.168.1.50 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-07T07:30:07: New connection from 192.168.1.50 on port 1883.
+2019-12-07T07:30:07: New client connected from 192.168.1.50 as ubuntu_14th (p2, c1, k60).
+2019-12-07T07:30:12: Client ubuntu_14th disconnected.
+2019-12-07T14:15:49: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-07T14:15:53: New connection from 192.168.1.50 on port 1883.
+2019-12-07T14:15:53: New client connected from 192.168.1.50 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-07T14:18:11: New connection from 192.168.1.50 on port 1883.
+2019-12-07T14:18:11: New client connected from 192.168.1.50 as ubuntu_14th (p2, c1, k60).
+2019-12-07T14:18:16: Socket error on client ubuntu_14th, disconnecting.
+2019-12-07T14:20:23: New connection from 192.168.1.50 on port 1883.
+2019-12-07T14:20:23: New client connected from 192.168.1.50 as ubuntu_14th (p2, c1, k60).
+2019-12-07T14:20:28: Socket error on client ubuntu_14th, disconnecting.
+2019-12-07T14:25:23: New connection from 192.168.1.50 on port 1883.
+2019-12-07T14:25:23: New client connected from 192.168.1.50 as ubuntu_14th (p2, c1, k60).
+2019-12-07T14:25:28: Socket error on client ubuntu_14th, disconnecting.
+2019-12-07T14:27:02: New connection from 192.168.1.50 on port 1883.
+2019-12-07T14:27:02: New client connected from 192.168.1.50 as ubuntu_14th (p2, c1, k60).
+2019-12-07T14:27:07: Client ubuntu_14th disconnected.
+2019-12-07T14:27:38: New connection from 192.168.1.50 on port 1883.
+2019-12-07T14:27:38: New client connected from 192.168.1.50 as ubuntu_14th (p2, c1, k60).
+2019-12-07T14:27:43: Client ubuntu_14th disconnected.
+2019-12-07T14:27:58: New connection from 192.168.1.50 on port 1883.
+2019-12-07T14:27:58: New client connected from 192.168.1.50 as ubuntu_14th (p2, c1, k60).
+2019-12-07T14:27:58: Socket error on client ubuntu_14th, disconnecting.
+2019-12-08T10:38:52: Socket error on client mosqsub/8720-vm-ubuntu, disconnecting.
+2019-12-08T10:44:08: mosquitto version 1.6.8 terminating
+2019-12-08T10:45:20: mosquitto version 1.6.8 starting
+2019-12-08T10:45:20: Config loaded from /mosquitto/config/mosquitto.conf.
+2019-12-08T10:45:20: Opening ipv4 listen socket on port 1883.
+2019-12-08T10:45:20: Opening ipv6 listen socket on port 1883.
+2019-12-09T04:57:38: mosquitto version 1.6.8 terminating
+2019-12-12T06:01:23: mosquitto version 1.6.8 starting
+2019-12-12T06:01:23: Config loaded from /mosquitto/config/mosquitto.conf.
+2019-12-12T06:01:23: Opening ipv4 listen socket on port 1883.
+2019-12-12T06:01:23: Opening ipv6 listen socket on port 1883.
+2019-12-12T06:02:27: mosquitto version 1.6.8 terminating
+2019-12-12T06:05:52: mosquitto version 1.6.8 starting
+2019-12-12T06:05:52: Config loaded from /mosquitto/config/mosquitto.conf.
+2019-12-12T06:05:52: Opening ipv4 listen socket on port 1883.
+2019-12-12T06:05:52: Opening ipv6 listen socket on port 1883.
+2019-12-12T06:06:19: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:06:19: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:07:09: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:07:09: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:07:09: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:07:09: New client connected from 192.168.1.205 as windows10 (p2, c1, k60).
+2019-12-12T06:07:09: New client connected from 192.168.1.205 as centos7 (p2, c1, k60).
+2019-12-12T06:07:09: New client connected from 192.168.1.205 as ubuntu_14th (p2, c1, k60).
+2019-12-12T06:07:10: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:07:10: New client connected from 192.168.1.205 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-12T06:07:29: Invalid subscription string from 192.168.1.205, disconnecting.
+2019-12-12T06:07:29: Socket error on client 686c29466bc04c97bce39f279c700dbe, disconnecting.
+2019-12-12T06:07:38: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:07:38: New client connected from 192.168.1.205 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-12T06:07:40: Invalid subscription string from 192.168.1.205, disconnecting.
+2019-12-12T06:07:40: Socket error on client 686c29466bc04c97bce39f279c700dbe, disconnecting.
+2019-12-12T06:09:28: New connection from 172.18.0.1 on port 1883.
+2019-12-12T06:09:28: New client connected from 172.18.0.1 as mosqsub/12681-vm-ubuntu (p1, c1, k60).
+2019-12-12T06:09:47: Socket error on client mosqsub/12681-vm-ubuntu, disconnecting.
+2019-12-12T06:17:17: New connection from 172.18.0.1 on port 1883.
+2019-12-12T06:17:17: New client connected from 172.18.0.1 as mosqsub/16947-vm-ubuntu (p1, c1, k60).
+2019-12-12T06:17:31: Socket error on client mosqsub/16947-vm-ubuntu, disconnecting.
+2019-12-12T06:17:40: Socket error on client windows10, disconnecting.
+2019-12-12T06:17:40: Socket error on client ubuntu_14th, disconnecting.
+2019-12-12T06:17:40: Socket error on client centos7, disconnecting.
+2019-12-12T06:20:03: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:20:03: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:20:03: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:20:03: New client connected from 192.168.1.205 as windows10 (p2, c1, k60).
+2019-12-12T06:20:03: New client connected from 192.168.1.205 as centos7 (p2, c1, k60).
+2019-12-12T06:20:03: New client connected from 192.168.1.205 as ubuntu_14th (p2, c1, k60).
+2019-12-12T06:21:00: Socket error on client springboot, disconnecting.
+2019-12-12T06:21:37: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:21:37: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:21:49: Socket error on client springboot, disconnecting.
+2019-12-12T06:22:11: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:22:11: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:22:11: Invalid subscription string from 192.168.1.205, disconnecting.
+2019-12-12T06:22:11: Socket error on client springboot, disconnecting.
+2019-12-12T06:23:23: Socket error on client windows10, disconnecting.
+2019-12-12T06:23:23: Socket error on client centos7, disconnecting.
+2019-12-12T06:23:23: Socket error on client ubuntu_14th, disconnecting.
+2019-12-12T06:23:24: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:23:24: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:23:24: Invalid subscription string from 192.168.1.205, disconnecting.
+2019-12-12T06:23:24: Socket error on client springboot, disconnecting.
+2019-12-12T06:24:49: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:24:49: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:24:49: Invalid subscription string from 192.168.1.205, disconnecting.
+2019-12-12T06:24:49: Socket error on client springboot, disconnecting.
+2019-12-12T06:27:52: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:27:52: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:27:52: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:27:52: New client connected from 192.168.1.205 as centos7 (p2, c1, k60).
+2019-12-12T06:27:52: New client connected from 192.168.1.205 as windows10 (p2, c1, k60).
+2019-12-12T06:27:52: New client connected from 192.168.1.205 as ubuntu_14th (p2, c1, k60).
+2019-12-12T06:28:09: New connection from 172.18.0.1 on port 1883.
+2019-12-12T06:28:09: New client connected from 172.18.0.1 as mosqsub/23040-vm-ubuntu (p1, c1, k60).
+2019-12-12T06:28:53: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:28:53: New client connected from 192.168.1.205 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-12T06:29:39: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:29:39: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:29:39: Socket error on client springboot, disconnecting.
+2019-12-12T06:31:47: Socket error on client ubuntu_14th, disconnecting.
+2019-12-12T06:31:47: Socket error on client centos7, disconnecting.
+2019-12-12T06:31:47: Socket error on client windows10, disconnecting.
+2019-12-12T06:33:45: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:33:45: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:33:45: Socket error on client springboot, disconnecting.
+2019-12-12T06:34:31: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:34:31: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:34:31: Socket error on client springboot, disconnecting.
+2019-12-12T06:36:10: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:36:10: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:36:16: Socket error on client springboot, disconnecting.
+2019-12-12T06:43:33: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:43:33: New client connected from 192.168.1.205 as Wildcard (p2, c1, k60).
+2019-12-12T06:43:50: Socket error on client Wildcard, disconnecting.
+2019-12-12T06:44:28: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:44:28: New client connected from 192.168.1.205 as Wildcard (p2, c1, k60).
+2019-12-12T06:45:24: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:45:24: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:46:18: Socket error on client springboot, disconnecting.
+2019-12-12T06:49:06: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-12T06:49:08: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:49:08: New client connected from 192.168.1.205 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-12T06:51:00: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:51:00: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:51:01: Socket error on client springboot, disconnecting.
+2019-12-12T06:52:06: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:52:06: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:52:06: Socket error on client springboot, disconnecting.
+2019-12-12T06:52:31: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:52:31: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:54:02: Client springboot has exceeded timeout, disconnecting.
+2019-12-12T06:55:03: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:55:03: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:55:04: Socket error on client springboot, disconnecting.
+2019-12-12T06:56:14: New connection from 192.168.1.205 on port 1883.
+2019-12-12T06:56:14: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T06:56:14: Socket error on client springboot, disconnecting.
+2019-12-12T07:03:46: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:03:46: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T07:05:51: Socket error on client springboot, disconnecting.
+2019-12-12T07:05:55: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:05:55: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T07:05:55: Socket error on client springboot, disconnecting.
+2019-12-12T07:07:27: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:07:27: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T07:08:37: Socket error on client springboot, disconnecting.
+2019-12-12T07:08:44: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:08:44: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T07:21:21: Socket error on client springboot, disconnecting.
+2019-12-12T07:21:27: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:21:27: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T07:21:27: Socket error on client springboot, disconnecting.
+2019-12-12T07:22:07: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:22:07: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T07:22:07: Socket error on client springboot, disconnecting.
+2019-12-12T07:27:49: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:27:49: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T07:29:31: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:29:31: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:29:31: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:29:31: New client connected from 192.168.1.205 as windows10 (p2, c1, k60).
+2019-12-12T07:29:31: New client connected from 192.168.1.205 as ubuntu_14th (p2, c1, k60).
+2019-12-12T07:29:31: New client connected from 192.168.1.205 as centos7 (p2, c1, k60).
+2019-12-12T07:30:26: Socket error on client springboot, disconnecting.
+2019-12-12T07:30:31: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:30:31: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T07:31:05: Socket error on client ubuntu_14th, disconnecting.
+2019-12-12T07:31:05: Socket error on client centos7, disconnecting.
+2019-12-12T07:31:05: Socket error on client windows10, disconnecting.
+2019-12-12T07:33:44: Socket error on client springboot, disconnecting.
+2019-12-12T07:33:48: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:33:48: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T07:35:22: Socket error on client springboot, disconnecting.
+2019-12-12T07:38:26: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:38:26: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T07:39:06: Socket error on client springboot, disconnecting.
+2019-12-12T07:39:12: New connection from 192.168.1.205 on port 1883.
+2019-12-12T07:39:12: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T08:31:12: Socket error on client springboot, disconnecting.
+2019-12-12T08:31:19: New connection from 192.168.1.205 on port 1883.
+2019-12-12T08:31:19: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T08:33:25: Socket error on client springboot, disconnecting.
+2019-12-12T08:33:30: New connection from 192.168.1.205 on port 1883.
+2019-12-12T08:33:30: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T08:33:53: New connection from 192.168.1.205 on port 1883.
+2019-12-12T08:33:53: New connection from 192.168.1.205 on port 1883.
+2019-12-12T08:33:53: New connection from 192.168.1.205 on port 1883.
+2019-12-12T08:33:53: New client connected from 192.168.1.205 as windows10 (p2, c1, k60).
+2019-12-12T08:33:53: New client connected from 192.168.1.205 as ubuntu_14th (p2, c1, k60).
+2019-12-12T08:33:53: New client connected from 192.168.1.205 as centos7 (p2, c1, k60).
+2019-12-12T08:34:18: Socket error on client springboot, disconnecting.
+2019-12-12T08:35:48: Socket error on client centos7, disconnecting.
+2019-12-12T08:35:48: Socket error on client ubuntu_14th, disconnecting.
+2019-12-12T08:35:48: Socket error on client windows10, disconnecting.
+2019-12-12T08:36:04: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-12T08:36:06: New connection from 192.168.1.205 on port 1883.
+2019-12-12T08:36:06: New client connected from 192.168.1.205 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-12T08:37:11: New connection from 192.168.1.205 on port 1883.
+2019-12-12T08:37:11: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T08:37:38: New connection from 192.168.1.205 on port 1883.
+2019-12-12T08:37:38: New connection from 192.168.1.205 on port 1883.
+2019-12-12T08:37:38: New connection from 192.168.1.205 on port 1883.
+2019-12-12T08:37:38: New client connected from 192.168.1.205 as centos7 (p2, c1, k60).
+2019-12-12T08:37:38: New client connected from 192.168.1.205 as windows10 (p2, c1, k60).
+2019-12-12T08:37:38: New client connected from 192.168.1.205 as ubuntu_14th (p2, c1, k60).
+2019-12-12T08:38:15: Socket error on client springboot, disconnecting.
+2019-12-12T08:38:19: New connection from 192.168.1.205 on port 1883.
+2019-12-12T08:38:19: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T14:49:19: Socket error on client Wildcard, disconnecting.
+2019-12-12T14:50:02: Socket error on client springboot, disconnecting.
+2019-12-12T14:50:16: New connection from 192.168.1.205 on port 1883.
+2019-12-12T14:50:16: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T14:50:43: Socket error on client springboot, disconnecting.
+2019-12-12T14:50:47: New connection from 192.168.1.205 on port 1883.
+2019-12-12T14:50:47: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T14:51:03: Socket error on client springboot, disconnecting.
+2019-12-12T14:54:20: New connection from 192.168.1.205 on port 1883.
+2019-12-12T14:54:20: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T14:54:48: Socket error on client springboot, disconnecting.
+2019-12-12T14:54:52: New connection from 192.168.1.205 on port 1883.
+2019-12-12T14:54:52: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-12T14:56:23: Client springboot has exceeded timeout, disconnecting.
+2019-12-13T02:52:32: New connection from 192.168.1.205 on port 1883.
+2019-12-13T02:52:32: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-13T02:54:03: Client springboot has exceeded timeout, disconnecting.
+2019-12-13T04:24:11: New connection from 192.168.1.205 on port 1883.
+2019-12-13T04:24:11: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-13T04:31:42: Socket error on client springboot, disconnecting.
+2019-12-13T04:31:47: New connection from 192.168.1.205 on port 1883.
+2019-12-13T04:31:47: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-13T04:32:04: Socket error on client windows10, disconnecting.
+2019-12-13T04:32:04: Socket error on client centos7, disconnecting.
+2019-12-13T04:32:04: Socket error on client ubuntu_14th, disconnecting.
+2019-12-13T04:33:28: Client springboot has exceeded timeout, disconnecting.
+2019-12-13T05:00:51: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:00:51: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:00:51: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:00:51: New client connected from 192.168.1.205 as ubuntu_14th (p2, c1, k60).
+2019-12-13T05:00:51: New client connected from 192.168.1.205 as windows10 (p2, c1, k60).
+2019-12-13T05:00:51: New client connected from 192.168.1.205 as centos7 (p2, c1, k60).
+2019-12-13T05:01:13: Socket error on client centos7, disconnecting.
+2019-12-13T05:01:13: Socket error on client ubuntu_14th, disconnecting.
+2019-12-13T05:01:13: Socket error on client windows10, disconnecting.
+2019-12-13T05:02:28: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:02:28: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:02:28: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:02:28: New client connected from 192.168.1.205 as centos7 (p2, c1, k60).
+2019-12-13T05:02:28: New client connected from 192.168.1.205 as ubuntu_14th (p2, c1, k60).
+2019-12-13T05:02:28: New client connected from 192.168.1.205 as windows10 (p2, c1, k60).
+2019-12-13T05:02:59: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-13T05:03:12: Socket error on client centos7, disconnecting.
+2019-12-13T05:03:12: Socket error on client windows10, disconnecting.
+2019-12-13T05:03:12: Socket error on client ubuntu_14th, disconnecting.
+2019-12-13T05:04:21: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:04:21: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:04:21: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:04:21: New client connected from 192.168.1.205 as centos7 (p2, c1, k60).
+2019-12-13T05:04:21: New client connected from 192.168.1.205 as windows10 (p2, c1, k60).
+2019-12-13T05:04:21: New client connected from 192.168.1.205 as ubuntu_14th (p2, c1, k60).
+2019-12-13T05:04:48: Socket error on client ubuntu_14th, disconnecting.
+2019-12-13T05:04:48: Socket error on client windows10, disconnecting.
+2019-12-13T05:04:48: Socket error on client centos7, disconnecting.
+2019-12-13T05:06:00: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:06:00: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:06:00: New connection from 192.168.1.205 on port 1883.
+2019-12-13T05:06:00: New client connected from 192.168.1.205 as centos7 (p2, c1, k60).
+2019-12-13T05:06:00: New client connected from 192.168.1.205 as windows10 (p2, c1, k60).
+2019-12-13T05:06:00: New client connected from 192.168.1.205 as ubuntu_14th (p2, c1, k60).
+2019-12-13T05:10:38: Socket error on client centos7, disconnecting.
+2019-12-13T05:10:38: Socket error on client ubuntu_14th, disconnecting.
+2019-12-13T05:10:38: Socket error on client windows10, disconnecting.
+2019-12-13T06:33:54: New connection from 192.168.1.205 on port 1883.
+2019-12-13T06:33:54: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-13T06:35:25: Client test has exceeded timeout, disconnecting.
+2019-12-13T06:50:49: New connection from 192.168.1.205 on port 1883.
+2019-12-13T06:50:49: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-13T07:12:05: Socket error on client test, disconnecting.
+2019-12-13T07:28:10: New connection from 192.168.1.205 on port 1883.
+2019-12-13T07:28:10: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-13T07:28:10: Client test disconnected.
+2019-12-13T07:29:12: New connection from 192.168.1.205 on port 1883.
+2019-12-13T07:29:12: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-13T07:29:12: Client test disconnected.
+2019-12-13T07:30:01: New connection from 192.168.1.205 on port 1883.
+2019-12-13T07:30:01: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-13T07:30:01: Client test disconnected.
+2019-12-13T07:30:18: New connection from 192.168.1.205 on port 1883.
+2019-12-13T07:30:18: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-13T07:30:18: Client test disconnected.
+2019-12-13T07:32:36: New connection from 192.168.1.205 on port 1883.
+2019-12-13T07:32:36: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-13T07:32:36: Client test disconnected.
+2019-12-13T07:32:57: New connection from 192.168.1.205 on port 1883.
+2019-12-13T07:32:57: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-13T07:32:57: Client test disconnected.
+2019-12-13T08:32:14: Socket error on client mosqsub/23040-vm-ubuntu, disconnecting.
+2019-12-14T02:39:42: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:39:42: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:39:42: Client test disconnected.
+2019-12-14T02:41:09: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:41:09: New client connected from 192.168.1.205 as 686c29466bc04c97bce39f279c700dbe (p2, c1, k60).
+2019-12-14T02:41:24: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:41:24: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:41:24: Client test disconnected.
+2019-12-14T02:41:43: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:41:43: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:41:43: Client test disconnected.
+2019-12-14T02:42:59: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:42:59: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:43:00: Client test disconnected.
+2019-12-14T02:43:24: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:43:24: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:43:24: Client test disconnected.
+2019-12-14T02:43:51: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:43:51: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:43:51: Client test disconnected.
+2019-12-14T02:46:23: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:46:23: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:46:23: Client test disconnected.
+2019-12-14T02:46:38: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:46:38: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:46:38: Client test disconnected.
+2019-12-14T02:50:05: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:50:05: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:50:05: Client test disconnected.
+2019-12-14T02:50:29: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:50:29: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:50:29: Client test disconnected.
+2019-12-14T02:51:00: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:51:00: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:51:00: Client test disconnected.
+2019-12-14T02:53:05: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:53:05: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:53:05: Client test disconnected.
+2019-12-14T02:53:30: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:53:30: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:53:30: Socket error on client test, disconnecting.
+2019-12-14T02:53:56: New connection from 192.168.1.205 on port 1883.
+2019-12-14T02:53:56: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T02:53:56: Socket error on client test, disconnecting.
+2019-12-14T03:03:08: New connection from 192.168.1.205 on port 1883.
+2019-12-14T03:03:08: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T03:03:08: Socket error on client test, disconnecting.
+2019-12-14T03:03:15: New connection from 192.168.1.205 on port 1883.
+2019-12-14T03:03:15: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T03:03:15: Socket error on client test, disconnecting.
+2019-12-14T03:03:56: New connection from 192.168.1.205 on port 1883.
+2019-12-14T03:03:56: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-14T03:03:56: Socket error on client test, disconnecting.
+2019-12-15T12:08:14: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-15T15:15:42: New connection from 192.168.1.205 on port 1883.
+2019-12-15T15:15:42: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-15T15:15:42: Socket error on client test, disconnecting.
+2019-12-15T15:16:23: New connection from 192.168.1.205 on port 1883.
+2019-12-15T15:16:23: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-15T15:16:23: Socket error on client test, disconnecting.
+2019-12-15T15:16:39: New connection from 192.168.1.205 on port 1883.
+2019-12-15T15:16:39: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-15T15:18:52: Socket error on client test, disconnecting.
+2019-12-15T15:18:56: New connection from 192.168.1.205 on port 1883.
+2019-12-15T15:18:56: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-15T15:19:29: Socket error on client test, disconnecting.
+2019-12-15T15:19:34: New connection from 192.168.1.205 on port 1883.
+2019-12-15T15:19:34: New client connected from 192.168.1.205 as test (p2, c1, k60).
+2019-12-15T15:20:05: Socket error on client test, disconnecting.
+2019-12-17T07:39:17: New connection from 192.168.1.205 on port 1883.
+2019-12-17T07:39:17: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-17T07:48:54: Socket error on client springboot, disconnecting.
+2019-12-17T07:51:23: New connection from 192.168.1.205 on port 1883.
+2019-12-17T07:51:23: New client connected from 192.168.1.205 as springboot (p2, c1, k60).
+2019-12-17T07:51:56: Socket error on client springboot, disconnecting.
+2019-12-17T07:52:01: New connection from 192.168.1.205 on port 1883.
+2019-12-17T07:52:01: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T07:53:06: Socket error on client springboot, disconnecting.
+2019-12-17T07:53:13: New connection from 192.168.1.205 on port 1883.
+2019-12-17T07:53:13: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T07:53:47: Socket error on client springboot, disconnecting.
+2019-12-17T07:53:51: New connection from 192.168.1.205 on port 1883.
+2019-12-17T07:53:51: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T07:56:09: New connection from 192.168.1.205 on port 1883.
+2019-12-17T07:56:09: New client connected from 192.168.1.205 as 686c29466bc04c97bce39f279c700dbe (p2, c0, k60).
+2019-12-17T07:57:08: Socket error on client springboot, disconnecting.
+2019-12-17T07:57:39: New connection from 192.168.1.205 on port 1883.
+2019-12-17T07:57:39: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T08:00:13: New connection from 192.168.1.205 on port 1883.
+2019-12-17T08:00:13: New client connected from 192.168.1.205 as 5018a2da74c04c67a0bd4078149e96d6 (p2, c1, k60).
+2019-12-17T08:00:47: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-17T08:00:57: New connection from 192.168.1.205 on port 1883.
+2019-12-17T08:00:57: New client connected from 192.168.1.205 as 686c29466bc04c97bce39f279c700dbe (p2, c0, k60).
+2019-12-17T08:02:52: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-17T08:03:31: New connection from 192.168.1.205 on port 1883.
+2019-12-17T08:03:31: New client connected from 192.168.1.205 as 686c29466bc04c97bce39f279c700dbe (p2, c0, k60).
+2019-12-17T08:06:11: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-17T08:06:22: New connection from 192.168.1.205 on port 1883.
+2019-12-17T08:06:22: New client connected from 192.168.1.205 as 686c29466bc04c97bce39f279c700dbe (p2, c0, k60).
+2019-12-17T08:06:28: New connection from 192.168.1.205 on port 1883.
+2019-12-17T08:06:28: New client connected from 192.168.1.205 as 4e4c54e6b7e443d6a3a579ed67024a7e (p2, c0, k60).
+2019-12-17T08:08:20: Client 686c29466bc04c97bce39f279c700dbe disconnected.
+2019-12-17T08:08:43: New connection from 192.168.1.205 on port 1883.
+2019-12-17T08:08:43: Client 4e4c54e6b7e443d6a3a579ed67024a7e already connected, closing old connection.
+2019-12-17T08:08:43: New client connected from 192.168.1.205 as 4e4c54e6b7e443d6a3a579ed67024a7e (p2, c0, k60).
+2019-12-17T08:08:59: Outgoing messages are being dropped for client 686c29466bc04c97bce39f279c700dbe.
+2019-12-17T08:12:19: Socket error on client springboot, disconnecting.
+2019-12-17T08:13:22: New connection from 192.168.1.205 on port 1883.
+2019-12-17T08:13:22: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T08:13:56: Socket error on client springboot, disconnecting.
+2019-12-17T08:14:14: New connection from 192.168.1.205 on port 1883.
+2019-12-17T08:14:14: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T08:14:33: Client 5018a2da74c04c67a0bd4078149e96d6 disconnected.
+2019-12-17T08:25:11: Socket error on client springboot, disconnecting.
+2019-12-17T08:48:41: New connection from 192.168.1.205 on port 1883.
+2019-12-17T08:48:41: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T12:38:00: Socket error on client springboot, disconnecting.
+2019-12-17T12:57:45: New connection from 192.168.1.205 on port 1883.
+2019-12-17T12:57:45: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T13:00:04: Socket error on client springboot, disconnecting.
+2019-12-17T13:13:51: New connection from 192.168.1.205 on port 1883.
+2019-12-17T13:13:51: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T13:55:53: New connection from 192.168.1.205 on port 1883.
+2019-12-17T13:55:53: Client springboot already connected, closing old connection.
+2019-12-17T13:55:53: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T13:56:00: Socket error on client springboot, disconnecting.
+2019-12-17T13:57:13: New connection from 192.168.1.205 on port 1883.
+2019-12-17T13:57:13: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T13:57:19: Socket error on client springboot, disconnecting.
+2019-12-17T13:58:59: New connection from 192.168.1.205 on port 1883.
+2019-12-17T13:58:59: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T13:59:04: Socket error on client springboot, disconnecting.
+2019-12-17T14:01:59: New connection from 192.168.1.205 on port 1883.
+2019-12-17T14:01:59: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T14:02:04: Socket error on client springboot, disconnecting.
+2019-12-17T14:05:12: New connection from 192.168.1.205 on port 1883.
+2019-12-17T14:05:12: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T14:05:18: Socket error on client springboot, disconnecting.
+2019-12-17T14:06:54: New connection from 192.168.1.205 on port 1883.
+2019-12-17T14:06:54: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T14:07:02: Socket error on client springboot, disconnecting.
+2019-12-17T15:00:05: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:00:05: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:03:37: Socket error on client springboot, disconnecting.
+2019-12-17T15:03:44: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:03:44: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:03:46: Socket error on client springboot, disconnecting.
+2019-12-17T15:04:12: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:04:12: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:07:27: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:07:27: New client connected from 192.168.1.205 as 5018a2da74c04c67a0bd4078149e96d6 (p2, c1, k60).
+2019-12-17T15:10:04: Socket error on client springboot, disconnecting.
+2019-12-17T15:33:44: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:33:44: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:35:31: Socket error on client springboot, disconnecting.
+2019-12-17T15:35:38: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:35:38: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:36:49: Socket error on client springboot, disconnecting.
+2019-12-17T15:36:55: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:36:55: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:37:57: Socket error on client springboot, disconnecting.
+2019-12-17T15:38:10: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:38:10: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:38:15: Socket error on client springboot, disconnecting.
+2019-12-17T15:39:12: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:39:12: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:39:17: Socket error on client springboot, disconnecting.
+2019-12-17T15:44:08: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:44:08: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:46:14: Socket error on client springboot, disconnecting.
+2019-12-17T15:46:23: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:46:23: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:47:01: Socket error on client springboot, disconnecting.
+2019-12-17T15:47:10: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:47:10: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:47:44: Socket error on client 4e4c54e6b7e443d6a3a579ed67024a7e, disconnecting.
+2019-12-17T15:51:38: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:51:38: Client springboot already connected, closing old connection.
+2019-12-17T15:51:38: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:51:43: Socket error on client springboot, disconnecting.
+2019-12-17T15:55:56: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:55:56: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:56:00: Socket error on client springboot, disconnecting.
+2019-12-17T15:56:50: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:56:50: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:56:50: Socket error on client springboot, disconnecting.
+2019-12-17T15:57:19: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:57:19: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:57:20: Socket error on client springboot, disconnecting.
+2019-12-17T15:57:33: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:57:33: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:57:34: Socket error on client springboot, disconnecting.
+2019-12-17T15:58:09: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:58:09: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T15:58:14: Socket error on client springboot, disconnecting.
+2019-12-17T15:59:56: New connection from 192.168.1.205 on port 1883.
+2019-12-17T15:59:56: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T16:00:01: Socket error on client springboot, disconnecting.
+2019-12-17T16:01:08: New connection from 192.168.1.205 on port 1883.
+2019-12-17T16:01:08: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T16:01:13: Socket error on client springboot, disconnecting.
+2019-12-17T16:01:28: New connection from 192.168.1.205 on port 1883.
+2019-12-17T16:01:28: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-17T16:01:55: Socket error on client springboot, disconnecting.
+2019-12-18T02:52:11: New connection from 192.168.1.205 on port 1883.
+2019-12-18T02:52:11: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T02:52:16: Socket error on client springboot, disconnecting.
+2019-12-18T02:52:49: New connection from 192.168.1.205 on port 1883.
+2019-12-18T02:52:49: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T02:56:38: Socket error on client springboot, disconnecting.
+2019-12-18T02:56:47: New connection from 192.168.1.205 on port 1883.
+2019-12-18T02:56:47: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T03:00:13: Socket error on client springboot, disconnecting.
+2019-12-18T03:00:23: New connection from 192.168.1.205 on port 1883.
+2019-12-18T03:00:23: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T03:03:56: Socket error on client springboot, disconnecting.
+2019-12-18T03:04:06: New connection from 192.168.1.205 on port 1883.
+2019-12-18T03:04:06: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T03:04:42: Socket error on client springboot, disconnecting.
+2019-12-18T03:04:51: New connection from 192.168.1.205 on port 1883.
+2019-12-18T03:04:51: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T03:05:15: New connection from 192.168.1.205 on port 1883.
+2019-12-18T03:05:15: Client springboot already connected, closing old connection.
+2019-12-18T03:05:15: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T03:05:20: Socket error on client springboot, disconnecting.
+2019-12-18T03:06:00: New connection from 192.168.1.205 on port 1883.
+2019-12-18T03:06:00: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T03:06:05: Socket error on client springboot, disconnecting.
+2019-12-18T03:09:08: New connection from 192.168.1.205 on port 1883.
+2019-12-18T03:09:08: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T03:09:15: Socket error on client springboot, disconnecting.
+2019-12-18T03:11:58: New connection from 192.168.1.205 on port 1883.
+2019-12-18T03:11:58: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T03:29:03: Socket error on client springboot, disconnecting.
+2019-12-18T03:29:15: New connection from 192.168.1.205 on port 1883.
+2019-12-18T03:29:15: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T03:29:27: Socket error on client springboot, disconnecting.
+2019-12-18T03:30:15: New connection from 192.168.1.205 on port 1883.
+2019-12-18T03:30:15: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T03:30:19: Socket error on client springboot, disconnecting.
+2019-12-18T03:30:38: New connection from 192.168.1.205 on port 1883.
+2019-12-18T03:30:38: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T04:00:09: Socket error on client springboot, disconnecting.
+2019-12-18T04:00:19: New connection from 192.168.1.205 on port 1883.
+2019-12-18T04:00:19: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T04:32:51: Socket error on client springboot, disconnecting.
+2019-12-18T04:33:00: New connection from 192.168.1.205 on port 1883.
+2019-12-18T04:33:00: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T04:34:03: Socket error on client springboot, disconnecting.
+2019-12-18T04:34:12: New connection from 192.168.1.205 on port 1883.
+2019-12-18T04:34:12: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T04:37:09: Socket error on client springboot, disconnecting.
+2019-12-18T04:37:18: New connection from 192.168.1.205 on port 1883.
+2019-12-18T04:37:18: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T04:37:44: Socket error on client springboot, disconnecting.
+2019-12-18T04:37:53: New connection from 192.168.1.205 on port 1883.
+2019-12-18T04:37:53: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T04:38:46: Socket error on client springboot, disconnecting.
+2019-12-18T04:38:55: New connection from 192.168.1.205 on port 1883.
+2019-12-18T04:38:55: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T04:45:48: Socket error on client springboot, disconnecting.
+2019-12-18T04:45:55: New connection from 192.168.1.205 on port 1883.
+2019-12-18T04:45:55: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T04:47:22: Socket error on client springboot, disconnecting.
+2019-12-18T04:47:31: New connection from 192.168.1.205 on port 1883.
+2019-12-18T04:47:31: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T05:50:53: Socket error on client springboot, disconnecting.
+2019-12-18T05:52:54: New connection from 192.168.1.205 on port 1883.
+2019-12-18T05:52:54: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T05:58:20: Socket error on client springboot, disconnecting.
+2019-12-18T05:58:29: New connection from 192.168.1.205 on port 1883.
+2019-12-18T05:58:29: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T07:20:07: Socket error on client springboot, disconnecting.
+2019-12-18T07:20:25: New connection from 192.168.1.205 on port 1883.
+2019-12-18T07:20:25: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T07:22:02: Socket error on client springboot, disconnecting.
+2019-12-18T07:22:14: New connection from 192.168.1.205 on port 1883.
+2019-12-18T07:22:14: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T07:24:10: Socket error on client springboot, disconnecting.
+2019-12-18T07:26:40: New connection from 192.168.1.205 on port 1883.
+2019-12-18T07:26:40: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T07:37:26: Socket error on client springboot, disconnecting.
+2019-12-18T07:38:13: Client 5018a2da74c04c67a0bd4078149e96d6 disconnected.
+2019-12-18T08:48:07: New connection from 192.168.1.205 on port 1883.
+2019-12-18T08:48:07: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T08:49:02: Socket error on client springboot, disconnecting.
+2019-12-18T08:49:10: New connection from 192.168.1.205 on port 1883.
+2019-12-18T08:49:10: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T08:50:11: Socket error on client springboot, disconnecting.
+2019-12-18T08:50:21: New connection from 192.168.1.205 on port 1883.
+2019-12-18T08:50:21: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T08:50:48: Socket error on client springboot, disconnecting.
+2019-12-18T08:52:18: New connection from 192.168.1.205 on port 1883.
+2019-12-18T08:52:18: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T08:52:25: Socket error on client springboot, disconnecting.
+2019-12-18T08:53:33: New connection from 192.168.1.205 on port 1883.
+2019-12-18T08:53:33: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T08:55:12: Socket error on client springboot, disconnecting.
+2019-12-18T08:55:21: New connection from 192.168.1.205 on port 1883.
+2019-12-18T08:55:21: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T08:56:34: Socket error on client springboot, disconnecting.
+2019-12-18T08:56:43: New connection from 192.168.1.205 on port 1883.
+2019-12-18T08:56:44: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T08:58:16: Socket error on client springboot, disconnecting.
+2019-12-18T08:58:57: New connection from 192.168.1.205 on port 1883.
+2019-12-18T08:58:57: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T08:59:22: Socket error on client springboot, disconnecting.
+2019-12-18T08:59:34: New connection from 192.168.1.205 on port 1883.
+2019-12-18T08:59:34: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T08:59:39: Socket error on client springboot, disconnecting.
+2019-12-18T09:01:40: New connection from 192.168.1.205 on port 1883.
+2019-12-18T09:01:40: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T09:01:45: Socket error on client springboot, disconnecting.
+2019-12-18T09:02:42: New connection from 192.168.1.205 on port 1883.
+2019-12-18T09:02:42: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T09:02:49: Socket error on client springboot, disconnecting.
+2019-12-18T09:03:13: New connection from 192.168.1.205 on port 1883.
+2019-12-18T09:03:13: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T09:03:18: Socket error on client springboot, disconnecting.
+2019-12-18T09:05:19: New connection from 192.168.1.205 on port 1883.
+2019-12-18T09:05:19: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T09:12:10: Socket error on client springboot, disconnecting.
+2019-12-18T09:12:19: New connection from 192.168.1.205 on port 1883.
+2019-12-18T09:12:19: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T09:13:01: Socket error on client springboot, disconnecting.
+2019-12-18T09:13:10: New connection from 192.168.1.205 on port 1883.
+2019-12-18T09:13:10: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T09:14:44: Socket error on client springboot, disconnecting.
+2019-12-18T09:14:54: New connection from 192.168.1.205 on port 1883.
+2019-12-18T09:14:54: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T09:16:20: Socket error on client springboot, disconnecting.
+2019-12-18T09:16:29: New connection from 192.168.1.205 on port 1883.
+2019-12-18T09:16:29: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T10:28:49: Socket error on client springboot, disconnecting.
+2019-12-18T10:34:02: New connection from 192.168.1.205 on port 1883.
+2019-12-18T10:34:02: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T10:34:04: New connection from 192.168.1.205 on port 1883.
+2019-12-18T10:34:04: Client springboot already connected, closing old connection.
+2019-12-18T10:34:04: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T10:34:06: New connection from 192.168.1.205 on port 1883.
+2019-12-18T10:34:06: Client springboot already connected, closing old connection.
+2019-12-18T10:34:06: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T10:34:07: New connection from 192.168.1.205 on port 1883.
+2019-12-18T10:34:07: Client springboot already connected, closing old connection.
+2019-12-18T10:34:07: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T10:34:08: Socket error on client springboot, disconnecting.
+2019-12-18T10:35:27: New connection from 192.168.1.205 on port 1883.
+2019-12-18T10:35:27: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T10:35:32: Socket error on client springboot, disconnecting.
+2019-12-18T10:44:00: New connection from 192.168.1.205 on port 1883.
+2019-12-18T10:44:00: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T10:44:05: Socket error on client springboot, disconnecting.
+2019-12-18T10:45:33: New connection from 192.168.1.205 on port 1883.
+2019-12-18T10:45:33: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T11:51:24: Socket error on client springboot, disconnecting.
+2019-12-18T11:51:42: New connection from 192.168.1.205 on port 1883.
+2019-12-18T11:51:42: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T12:04:08: Socket error on client springboot, disconnecting.
+2019-12-18T12:04:27: New connection from 192.168.1.205 on port 1883.
+2019-12-18T12:04:27: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T12:07:52: Socket error on client springboot, disconnecting.
+2019-12-18T12:08:06: New connection from 192.168.1.205 on port 1883.
+2019-12-18T12:08:06: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T12:15:32: Socket error on client springboot, disconnecting.
+2019-12-18T12:15:43: New connection from 192.168.1.205 on port 1883.
+2019-12-18T12:15:43: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T12:43:51: Socket error on client springboot, disconnecting.
+2019-12-18T12:44:05: New connection from 192.168.1.205 on port 1883.
+2019-12-18T12:44:05: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T12:48:45: Socket error on client springboot, disconnecting.
+2019-12-18T12:51:05: New connection from 192.168.1.205 on port 1883.
+2019-12-18T12:51:05: New client connected from 192.168.1.205 as springboot (p2, c0, k60).
+2019-12-18T12:58:26: New connection from 192.168.1.205 on port 1883.
+2019-12-18T12:58:26: New client connected from 192.168.1.205 as 686c29466bc04c97bce39f279c700dbe (p2, c0, k60).
+2019-12-18T12:58:39: Outgoing messages are being dropped for client 686c29466bc04c97bce39f279c700dbe.
+2019-12-18T13:01:03: New connection from 192.168.1.205 on port 1883.
+2019-12-18T13:01:03: New connection from 192.168.1.205 on port 1883.
+2019-12-18T13:01:03: New connection from 192.168.1.205 on port 1883.
+2019-12-18T13:01:03: New client connected from 192.168.1.205 as ubuntu_14th (p2, c1, k60).
+2019-12-18T13:01:03: New client connected from 192.168.1.205 as centos7 (p2, c1, k60).
+2019-12-18T13:01:03: New client connected from 192.168.1.205 as windows10 (p2, c1, k60).
+2019-12-18T13:01:28: Socket error on client centos7, disconnecting.
+2019-12-18T13:01:28: Socket error on client windows10, disconnecting.
+2019-12-18T13:01:28: Socket error on client ubuntu_14th, disconnecting.
+2019-12-27T10:09:55: Client 686c29466bc04c97bce39f279c700dbe has exceeded timeout, disconnecting.
+2019-12-27T10:09:56: Client springboot has exceeded timeout, disconnecting.
+2020-01-06T15:27:07: New connection from 192.168.1.88 on port 1883.
+2020-01-06T15:27:07: New client connected from 192.168.1.88 as 5018a2da74c04c67a0bd4078149e96d6 (p2, c1, k60).
+2020-01-06T15:59:11: New connection from 192.168.1.88 on port 1883.
+2020-01-06T15:59:11: New client connected from 192.168.1.88 as springboot (p2, c0, k60).
+2020-01-07T02:32:01: New connection from 192.168.1.88 on port 1883.
+2020-01-07T02:32:01: New connection from 192.168.1.88 on port 1883.
+2020-01-07T02:32:01: New connection from 192.168.1.88 on port 1883.
+2020-01-07T02:32:01: New client connected from 192.168.1.88 as windows10 (p2, c1, k60).
+2020-01-07T02:32:01: New client connected from 192.168.1.88 as ubuntu_14th (p2, c1, k60).
+2020-01-07T02:32:01: New client connected from 192.168.1.88 as vm-ubuntu16 (p2, c1, k60).
+2020-01-07T02:32:53: Outgoing messages are being dropped for client 4e4c54e6b7e443d6a3a579ed67024a7e.
+2020-01-07T02:57:25: Socket error on client vm-ubuntu16, disconnecting.
+2020-01-07T02:57:25: Socket error on client ubuntu_14th, disconnecting.
+2020-01-07T02:57:25: Socket error on client windows10, disconnecting.
+2020-01-07T02:57:29: New connection from 192.168.1.88 on port 1883.
+2020-01-07T02:57:29: New connection from 192.168.1.88 on port 1883.
+2020-01-07T02:57:29: New connection from 192.168.1.88 on port 1883.
+2020-01-07T02:57:29: New client connected from 192.168.1.88 as ubuntu_14th (p2, c1, k60).
+2020-01-07T02:57:29: New client connected from 192.168.1.88 as desktop-alan (p2, c1, k60).
+2020-01-07T02:57:29: New client connected from 192.168.1.88 as vm-ubuntu16 (p2, c1, k60).
+2020-01-07T02:58:29: Socket error on client desktop-alan, disconnecting.
+2020-01-07T02:58:29: Socket error on client ubuntu_14th, disconnecting.
+2020-01-07T02:58:29: Socket error on client vm-ubuntu16, disconnecting.
+2020-01-07T05:32:06: Socket error on client springboot, disconnecting.
+2020-01-07T05:32:21: New connection from 192.168.1.88 on port 1883.
+2020-01-07T05:32:21: New client connected from 192.168.1.88 as springboot (p2, c0, k60).
+2020-01-07T05:33:55: mosquitto version 1.6.8 terminating
+2020-01-07T05:37:20: mosquitto version 1.6.8 starting
+2020-01-07T05:37:20: Config loaded from /mosquitto/config/mosquitto.conf.
+2020-01-07T05:37:20: Opening ipv4 listen socket on port 1883.
+2020-01-07T05:37:20: Opening ipv6 listen socket on port 1883.
+2020-01-07T05:37:27: New connection from 192.168.1.88 on port 1883.
+2020-01-07T05:37:27: New client connected from 192.168.1.88 as 5018a2da74c04c67a0bd4078149e96d6 (p2, c1, k60).
+2020-01-07T05:38:58: New connection from 192.168.1.88 on port 1883.
+2020-01-07T05:38:58: New client connected from 192.168.1.88 as springboot (p2, c0, k60).
+2020-01-07T05:39:27: New connection from 192.168.1.88 on port 1883.
+2020-01-07T05:39:27: New connection from 192.168.1.88 on port 1883.
+2020-01-07T05:39:27: New connection from 192.168.1.88 on port 1883.
+2020-01-07T05:39:27: New client connected from 192.168.1.88 as vm-ubuntu16 (p2, c1, k60).
+2020-01-07T05:39:27: New client connected from 192.168.1.88 as ubuntu_14th (p2, c1, k60).
+2020-01-07T05:39:27: New client connected from 192.168.1.88 as desktop-alan (p2, c1, k60).
+2020-01-07T05:39:46: Socket error on client desktop-alan, disconnecting.
+2020-01-07T05:39:46: Socket error on client ubuntu_14th, disconnecting.
+2020-01-07T05:39:46: Socket error on client vm-ubuntu16, disconnecting.
+2020-01-07T05:49:55: Socket error on client springboot, disconnecting.
+2020-01-07T05:50:08: New connection from 192.168.1.88 on port 1883.
