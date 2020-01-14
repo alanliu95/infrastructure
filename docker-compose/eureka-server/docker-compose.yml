@@ -1,0 +1,8 @@
+version: '2'
+services:
+  eureka-server:
+    image: alanecust/eureka-server:v1
+    hostname: eureka-server
+    container_name: eureka-server
+    ports:
+      - "9761:8761"
